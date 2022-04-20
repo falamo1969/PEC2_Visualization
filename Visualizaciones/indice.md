@@ -7,7 +7,9 @@ El tratamiento de los datos ha sido muy simple y se ha realizado manualmente en 
 No ha habido necesidad de tratamiento de datos para esta visualización. He usado Tableau On Line para poder generar dos visualizaciones de la información. Su versión estática es Comparativa casos totales.pdf y Olas de Covid.pdf.
 
 En los siguientes enlaces se puede acceder a las visualizaciones en Tableau: 
+
 https://public.tableau.com/views/Falamo1969PEC2_VisualizacindeDatos/Comparativacasostotales?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link
+
 https://public.tableau.com/views/Falamo1969PEC2_VisualizacindeDatos_olas/OlasdeCovid?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link
 
 ## Visualización Chord Diagrams
