@@ -1,0 +1,35 @@
+Procedencia,Destino,Ruta
+Africa,Africa,1262
+Africa,América Norte,21
+Africa,América Sur,7
+Africa,Asia,372
+Africa,Europa,797
+Africa,Oceanía,5
+América Norte,Africa,24
+América Norte,América Norte,3344
+América Norte,América Sur,301
+América Norte,Asia,362
+América Norte,Europa,992
+América Norte,Oceanía,60
+América Sur,Africa,7
+América Sur,América Norte,302
+América Sur,América Sur,339
+América Sur,Asia,5
+América Sur,Europa,96
+América Sur,Oceanía,5
+Asia,Africa,369
+Asia,América Norte,358
+Asia,América Sur,5
+Asia,Asia,7479
+Asia,Europa,1840
+Asia,Oceanía,279
+Europa,Africa,803
+Europa,América Norte,990
+Europa,América Sur,96
+Europa,Asia,1843
+Europa,Europa,12480
+Oceanía,Africa,5
+Oceanía,América Norte,52
+Oceanía,América Sur,5
+Oceanía,Asia,280
+Oceanía,Oceanía,333
