@@ -8,3 +8,5 @@ No ha habido necesidad de tratamiento de datos para esta visualización. He usad
 En el siguiente enlace se puede acceder a la visualización en Tableau: https://dub01.online.tableau.com/#/site/uocvisualizacion/workbooks/836576/views?
 
 ## Visualización Chord Diagrams
+Para esta visualización se ha tenido que hacer un tratamiento previo de los datos mediante python. El notebook desarrollado para ello ha sido falamo69_Visualización_Chord_PEC2.ipynb. Se han cruzado los datos de los ficheros fuentes, se han seleccionado vuelos internacionales y sin escalas y se ha producido el archivo final chord_data.csv. Este fichero se ha subido a flourish para realizar la visualización.
+La visualización dinámica está disponible en el enlace https://public.flourish.studio/visualisation/9449739/
